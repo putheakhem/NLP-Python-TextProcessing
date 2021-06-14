@@ -1,0 +1,411 @@
+<s> How many people are there in your family? </s>
+<s> There are 5 people in my family: my father, mother, brother, sister, and me. </s>
+<s> Does your family live in a house or an apartment? </s>
+<s> We live in a house in the countryside. </s>
+<s> What does your father do? </s>
+<s> My father is a doctor. He works at the local hospital. </s>
+<s> How old is your mother? </s>
+<s> She is 40 years old, 1 year younger than my father. </s>
+<s> Do you have any siblings? What’s his/her name? </s>
+<s> Yes, I do. I have 1 elder brother, David, and 1 younger sister, Mary. </s>
+<s> Are you the oldest amongst your brothers and sisters? </s>
+<s> No, I’m not. I’m the second child in my family. </s>
+<s> What does your mother/father like? </s>
+<s> My father likes playing football and my mother likes cooking. </s>
+<s> Do your parents let you stay out late? </s>
+<s> Of course not. They always ask me to get home before 10 pm each night. </s>
+<s> Do you stay with your parents? </s>
+<s> Right now, no, but I used to. </s>
+<s> Does your family usually have dinner together? </s>
+<s> Yes, we do. My mom always prepares delicious meals for us. </s>
+<s> How often do you eat out? Who do you go with? </s>
+<s> I often eat out on weekends, when I hang out with my friends. </s>
+<s> What restaurant do you usually visit? </s>
+<s> Well, there are not many restaurants in my neighborhood, so my best choice is the deli in convenient stores like the Circle K, Mini-Stop, B-smart. </s>
+<s> What type of food do you enjoy to eat? Western or Asian? </s>
+<s> I’m interested in Asian food, Western food is not my thing. </s>
+<s> How much do you usually pay when you eat out? </s>
+<s> It’s not very expensive, just around $5 for each meal. </s>
+<s> Do you enjoy spicy food? </s>
+<s> Yes, I do, especially on cold days. </s>
+<s> Are the servers there friendly to you? </s>
+<s> Yes, they are. Most of them are really helpful. </s>
+<s> Have you ever tried Italian food? </s>
+<s> Yes, at least once, when I was in my friend’s wedding party. </s>
+<s> Are you concerned about calories when eating out? </s>
+<s> Yes, I am. I’m on diet now, so this really matters to me. </s>
+<s> Are fast food restaurants like KFC or McDonald’s famous in your country? </s>
+<s> Yes, they are. The youth in my country are big fans of fast food. </s>
+<s> Do you often drink alcohol when eating out? </s>
+<s> No, not often. Just when I have parties with my friends. </s>
+<s> How often do you read books? </s>
+<s> I read books almost every night before I go to bed. </s>
+<s> What’s your favorite type of book? </s>
+<s> I love reading about different cultures. </s>
+<s> What can you learn from books? </s>
+<s> Books can broaden my horizon about thousands of things around the world, and books are also my best friends. </s>
+<s> Where do you read books? </s>
+<s> I read books at home, sometimes in the library. </s>
+<s> What’s the most interesting book you have ever read? </s>
+<s> I think that would be Nepal, a book written about the country of Nepal, published in 1999. </s>
+<s> How long does it take you to finish a book? </s>
+<s> Well, it depends on the length of the book, but it usually takes me a week to finish a 300-page book. </s>
+<s> Do you usually bring books with you when you travel? </s>
+<s> Yes, I do. When I’m at the airport or bus station, I read books to kill time. </s>
+<s> Is there any bookstore or library in your area? </s>
+<s> Unfortunately, there are none near my house. The nearest one is 3 kilometers away. </s>
+<s> How many places have you traveled to? </s>
+<s> I’ve visited all the provinces throughout my country. </s>
+<s> Who do you usually go with? </s>
+<s> I often go with my family, sometimes with my best friends. </s>
+<s> What’s your favorite tourist attraction? </s>
+<s> That would be Venice city in Italy. I love riding the gondola along the canals while watching Italian people live their daily lives. </s>
+<s> Have you ever been abroad? </s>
+<s> Yes, I have. I came to Italy last year for a business trip. </s>
+<s> What language do you use when traveling? </s>
+<s> English, but sometimes I have to use body language since not all people are good at English. </s>
+<s> What do you usually do during your trip? </s>
+<s> I often go sightseeing, take pictures, mingle with the local people and sample the local cuisine. </s>
+<s> What do you do to prepare for your trip? </s>
+<s> Before the trip, I search for information about the location, weather, famous tourist attractions, transportation, local cuisine and prices on the internet. </s>
+<s> What do you usually bring when you travel? </s>
+<s> I usually pack my suitcase with some necessary items such as clothes, medicine, food, a map, and a camera. </s>
+<s> Do you prefer traveling by car, train or plane? </s>
+<s> I prefer planes although it can be a little expensive. Planes are much faster than any other mode of transport. </s>
+<s> Do you prefer traveling alone or joining a guided tour? </s>
+<s> I love backpacking with my friends who share the same interests as me. </s>
+<s> What type of websites do you often search for? </s>
+<s> It varies depending on my goal. I prefer entertainment and education websites such as facebook.com, wikipedia.org and VOA Special English. </s>
+<s> How long have you been using them? </s>
+<s> I have been using these websites since I was a freshman at university. </s>
+<s> What do you visit those websites for? </s>
+<s> I use them to study online or relax after working. </s>
+<s> What’s your favorite website? </s>
+<s> I think it’s probably youtube.com. </s>
+<s> Can you read websites in English? </s>
+<s> Yes, I can. Most useful websites are written in English. </s>
+<s> What’s the most popular website in your country? </s>
+<s> I’m not quite sure, but I guess it would be facebook.com. </s>
+<s> Do you think the youth should use websites as a reliable source of knowledge? </s>
+<s> Not always, they should choose their sources carefully. </s>
+<s> Have you ever been in any traffic accident? </s>
+<s> Yes, three years ago. </s>
+<s> What happened? </s>
+<s> I was hit by a car while crossing the road. </s>
+<s> How did you feel then? </s>
+<s> I felt really terrible because of my injuries. </s>
+<s> Who was involved in the accident? </s>
+<s> The car driver, his family (inside the car), and me. </s>
+<s> Did the insurance company pay for repair service? </s>
+<s> I was walking so I did not require any car repair services. </s>
+<s> Did you need a lawyer? </s>
+<s> I hurt my lower back just a little, so I didn’t call a lawyer. </s>
+<s> Did you report the issue to the police? </s>
+<s> No, we didn’t want to get the police involved. </s>
+<s> Were you sent to the hospital after the accident? </s>
+<s> No, the injury wasn’t really serious. </s>
+<s> Do you have a driving license? </s>
+<s> Yes, I do. I always keep it in my purse. </s>
+<s> Why should people obey traffic regulations? </s>
+<s> To protect themselves and others. The best ways are to wear a helmet, wait for traffic lights and stay in the appropriate vehicle/pedestrian lanes. </s>
+<s> Did you have a happy childhood? </s>
+<s> Yes, I did. I enjoyed playing hide and seek with my peers. </s>
+<s> Did you experience your childhood in a city or countryside? </s>
+<s> I spent my childhood in a rural area where I could see vast rice fields. </s>
+<s> Did you usually skip class when you were a child? </s>
+<s> Yes, I did, and many of my friends did, too. </s>
+<s> Who were you with when you were a child? </s>
+<s> I was with my beloved family. </s>
+<s> What did you want to be when you were a child? </s>
+<s> I dreamed of being a fashion designer. </s>
+<s> Who did you love the most when you were a child? </s>
+<s> I loved my mom the most since she was always there and took care of me. </s>
+<s> Who was your childhood hero? </s>
+<s> Robin Hood, he took money from the rich and gave it to the poor. </s>
+<s> What reminds you of your childhood? </s>
+<s> Green rice fields which I happen to see everywhere remind me of my beautiful childhood. </s>
+<s> Did you change a lot when you grew up? </s>
+<s> Yes, of course. I’m more mature now both physically and mentally. </s>
+<s> Why is childhood important? </s>
+<s> Because it shapes people into who they will become. </s>
+<s> How many rooms are there in your house? </s>
+<s> There are 6 rooms: a living room, 2 bedrooms, a bathroom and a kitchen. </s>
+<s> Which floor is your bedroom on? </s>
+<s> My bedroom is on the first floor of a three-storey house. </s>
+<s> Is it big or small? </s>
+<s> It’s not very spacious, just enough to put necessary furniture in. </s>
+<s> What color is your bedroom painted? </s>
+<s> It’s painted pink, my favorite color. </s>
+<s> Do you love your room? Why? </s>
+<s> I love it very much because it is my private space whenever I go home. </s>
+<s> What furniture does your bedroom contain? </s>
+<s> It contains a bed, a desk, and a clothing closet. </s>
+<s> What do you do in it? </s>
+<s> Well, I spend most of my free time there reading books and sleeping. </s>
+<s> How much time do you spend in your room? </s>
+<s> About 10 hours a day, especially in the evening. </s>
+<s> Do you share your room with anyone else? </s>
+<s> No, everyone in my family has their own room, so I stay there alone. </s>
+<s> What kind of presents are popular in your country? </s>
+<s> It depends on the receivers. For children, toys are the best choice. For youth, souvenirs are recommended. </s>
+<s> Who gave presents to you? On what occasions? </s>
+<s> I have received many presents, most of which were from my friends. They gave me gifts on my birthday. </s>
+<s> What was your last present? </s>
+<s> It was a hand-made doll, given by my best friend when I moved to another city. </s>
+<s> What was the one you like best? </s>
+<s> I loved my book Nepal a lot. It was given to me on my 23rd birthday by my brother. </s>
+<s> Did you ever get a present you didn’t like? </s>
+<s> Yes, I have, but I still treasure and take care of them. </s>
+<s> How do you thank people who give you presents? </s>
+<s> I gave them presents that they would like. </s>
+<s> What are the times of the year that people give presents in your country? </s>
+<s> Some special occasions are birthdays, weddings, graduation, New Year’s day, Valentine’s day, housewarming ceremonies, etc. </s>
+<s> Who was the last person you gave a present to? </s>
+<s> My mom, I bought her a coat on a business trip to Bangkok. </s>
+<s> Is giving presents important in daily life? </s>
+<s> Yes, it is. It’s one of the best ways to show your love and gratitude to someone. </s>
+<s> Which tourist attractions do you prefer when traveling? Historical places or natural landmarks? </s>
+<s> Well, historical places are always my first choice when traveling. </s>
+<s> What do you usually do when visiting historical places? </s>
+<s> I usually listen to the tour-guide introducing the sights and take notes about important historical events. </s>
+<s> Can you name some historical places you have visited? </s>
+<s> Whenever I travel to a foreign country, I always visit its famous historical places. Some of them are the Pyramids in Egypt, Angkor Wat in Cambodia, Stonehenge in England and the Taj Mahal in India. </s>
+<s> What’s your most favorite historical place? Why? </s>
+<s> I love the Pyramids the most. Taking a tour around the Pyramids, I can not only enjoy the gorgeous architecture but also learn cultural and historical values of the ancient Egyptian culture. </s>
+<s> What is the most famous historical place in your country? </s>
+<s> It’s definitely the Statue of Liberty in New York city. </s>
+<s> What’s special about it? </s>
+<s> The statue was gifted by the people of France. It is a symbol of freedom for the US as well as a welcoming sight to people coming to the US from another country. </s>
+<s> Where is it located? </s>
+<s> It’s located on Liberty island in New York Harbor, NYC. </s>
+<s> Should the youth visit historical places instead of other places? </s>
+<s> Sure. Nowadays the youth should visit these kind of places more often in order to preserve historical and cultural values of their country. </s>
+<s> What are the benefits of reading a newspaper/magazine? </s>
+<s> Newspapers/magazines can broaden your mind about thousands of things without the need to travel. </s>
+<s> How often do you read it? </s>
+<s> I read it every day. </s>
+<s> What’s the best time to read the newspaper? </s>
+<s> I think the best time is in the morning when you start a new day. </s>
+<s> What types of magazines do you usually read? </s>
+<s> I usually read politics and fashion magazines. I also enjoy reading about culture and tourism. </s>
+<s> What’s your favorite magazine? </s>
+<s> My favorite is The New York Times, which writes about all sorts of things: business, sports, movies, travel, books, jobs, education, and real estate. </s>
+<s> Do you read the paper or online news? </s>
+<s> I prefer online news to save money. </s>
+<s> How much does it cost you to buy paper newspaper per month? </s>
+<s> I only buy a monthly newspaper, so it doesn’t cost much money. Around $5/month. </s>
+<s> What is the most popular magazine in your country? </s>
+<s> I think it would be Forbes magazine, a leading source for reliable business news and financial information. </s>
+<s> With the popularity of Internet, do you think newspapers and magazines will disappear? </s>
+<s> Yes, unfortunately it’s just a matter of time. </s>
+<s> How many events have you joined this year? What were they about? </s>
+<s> I have joined more than 10 events so far, most of which were about education. </s>
+<s> What was your most memorable event? </s>
+<s> The most memorable for me was an international study conference, in which I was introduced to some famous universities in Europe to study overseas. </s>
+<s> Was it organized indoors or outdoors? </s>
+<s> It was an indoor event. </s>
+<s> Who sponsored the event? </s>
+<s> The event organizer was the Education Department of American Center, but the universities introduced in the conference were the ones who paid. </s>
+<s> Who went to the event with you? </s>
+<s> I went there with my friends, who shared the same interest in studying abroad as me. </s>
+<s> What were some performances in the event? </s>
+<s> There were not many performances. Each university representative just had a speech to introduce their school to students and then they hosted Q&A session. </s>
+<s> Was the event shown on TV? </s>
+<s> The event was not aired, but there were television advertisements for it. </s>
+<s> How would someone market an event? </s>
+<s> Taking advantage of social media is a smart way to promote an event. </s>
+<s> What subjects did you learn in school? </s>
+<s> I learned Math, Science, Physics, Biology, Geography, History, Literature, English, Art, and Music. </s>
+<s> What subject did you like the most when you were at school? Were you good at it? </s>
+<s> I liked Biology the most although I was excellent at Literature. </s>
+<s> Did your friends like that subject too? </s>
+<s> Yes, they did. They enjoyed every single Biology lesson. </s>
+<s> Was the textbook written in English or any other language? </s>
+<s> It was written in English. </s>
+<s> Who taught that subject? </s>
+<s> My teacher was Ms. Karen, from the USA. </s>
+<s> How was that subject helpful to you? </s>
+<s> It helped me a lot in becoming a Biology teacher. </s>
+<s> How often did you learn that subject? </s>
+<s> I often had Biology lessons 5 times a week. </s>
+<s> How long did you spend on that subject at home? </s>
+<s> I spent roughly 2 hours per day studying Biology at home. </s>
+<s> Have you ever attended any extra classes for that subject? </s>
+<s> Yes, I have. I usually attended evening classes. </s>
+<s> Is it important to study hard on both social sciences and natural sciences? </s>
+<s> No, it isn’t. Students should study the ones they like and those that are helpful to their career path. </s>
+<s> What type of museum is popular in your country? </s>
+<s> There are many types of museums, but the most popular are historical museums. </s>
+<s> What is the most famous museum in your country? </s>
+<s> That would be The British Museum, located in London. </s>
+<s> What’s special about it? </s>
+<s> I’m impressed by its large amount of historical, art, and cultural work. </s>
+<s> How many times have you visited that museum? </s>
+<s> I have visited the museum twice. </s>
+<s> What do you usually do when visiting a museum? </s>
+<s> I usually listen to the tour guide and take notes about important information. </s>
+<s> Are you allowed to take pictures there? </s>
+<s> No, the guards did not allow us to bring the camera in. </s>
+<s> How did you feel after visiting there? </s>
+<s> The overall experience was fantastic, and I learned so many things in just a few hours. </s>
+<s> What do you think is the importance of museums in history? </s>
+<s> Museums are an integral part of any country’s history, and they keep history alive. </s>
+<s> Do you usually watch movies at home or at a movie theater? </s>
+<s> I usually watch movies on my laptop, sometimes I go to the movie theater. </s>
+<s> Is watching movies at the theater more interesting than watching movies at home? </s>
+<s> Yes, definitely, because you can watch vivid images on a large screen with lively sound effects. </s>
+<s> How often do you go to the movie theater? </s>
+<s> I often go to the movie theater every weekend. </s>
+<s> What’s your favorite type of movie? What movie of that type do you like? </s>
+<s> My favorite type is comedy because whenever I watch one, I feel like there are no more worries in the world. I love the Mr.Bean movie series. </s>
+<s> Was that movie adapted from a book? </s>
+<s> No, the story is derived from funny situations in real life. </s>
+<s> Who are the actors/actresses in the movie? </s>
+<s> Mr. Bean is the main character, he is played by Rowan Atkinson who is from England. </s>
+<s> Was it recommended by your friend, teacher or family? </s>
+<s> It was recommended by my classmate. </s>
+<s> Was the movie in your mother language or in English? </s>
+<s> It was in English, but I can also watch it with subtitles. </s>
+<s> Should children watch violent movies? </s>
+<s> I don’t believe so. Young children are very impressionable and it could lead them to wanting to imitate the behavior. </s>
+<s> What’s the most important factor of a great movie? </s>
+<s> I believe that plot and actors are among the factors which decide the success of a movie. </s>
+<s> Have you ever travelled abroad? If yes, what country was it? </s>
+<s> Yes, I have. I traveled to the USA last year with my family. </s>
+<s> Where is that country located? </s>
+<s> The USA is located in North America. </s>
+<s> What is it famous for? </s>
+<s> The USA is known for its cultural achievements and landmarks. </s>
+<s> What are the special food and drinks of that country? </s>
+<s> There are many. They are known for fast food, dairy, and many beverages. </s>
+<s> What do you like about that country? </s>
+<s> I like the fast pace of life and the various sub-cultures. </s>
+<s> How many citizens are there in that country? </s>
+<s> The current population of the United States of America was over 324 million in 2016, which accounts for 4.3% of the total world population. </s>
+<s> What language do people there speak? </s>
+<s> The national language is English, but many people also speak Spanish, French, German, and Chinese. </s>
+<s> Do you want to go back there again? </s>
+<s> Sure. </s>
+<s> Why do people like to travel abroad? </s>
+<s> They just want to discover new places, learn new cultures and maybe speak new languages. </s>
+<s> On what occasions do people in your country celebrate parties? </s>
+<s> There are many occasions when people throw parties such as New Year’s eve, wedding engagments, family reunions, birthdays, etc, but sometimes people hold parties just when they meet up and want to have something fun to do. </s>
+<s> Are you a party animal? </s>
+<s> Yes, I am. I’m crazy about going to parties. I love meeting friends, drinking, and talking. </s>
+<s> When do parties often start and finish? </s>
+<s> It depends on what kind of party it is. I believe the perfect time to have a party is in the evening, from 8-11 pm. </s>
+<s> Where are the parties thrown? </s>
+<s> They are held inside or outside. Some formal events like weddings/housewarmings are organized inside while others like family reunions and birthdays may be held outside. </s>
+<s> What do you usually wear when you come to a party? </s>
+<s> I often wear casual clothes like a T-shirt and jeans if I go to informal parties, and a dress for formal ones. </s>
+<s> What do people do in the parties you attended? </s>
+<s> At the party, people talk, eat and drink together. Some go there to find business opportunities and new partners. </s>
+<s> Do you enjoy drinking alcohol at the parties? </s>
+<s> Yes, a little beer can cheer me up. </s>
+<s> Do people have to bring anything to the party? </s>
+<s> It’s not required, but sometimes visitors bring some gifts to show their love for the host. </s>
+<s> Why do people, especially the youth, love going to parties? </s>
+<s> It’s just a good way for them to chill out after a long day. </s>
+<s> Who is your favorite teacher? </s>
+<s> I like Mr. Tom the most, he is my English teacher. </s>
+<s> Is he a foreign teacher? </s>
+<s> Yes, he’s from the US. </s>
+<s> What do you like about his lessons? </s>
+<s> I have fallen in love with his American accent and he always shows us something new about the world outside of textbooks. </s>
+<s> What’s he like? </s>
+<s> He’s not only knowledgeable but also very friendly. He always treats us like friends, not students. </s>
+<s> What does he usually wear when coming to class? </s>
+<s> He usually wears a gray suit when he comes to class. </s>
+<s> Do you love his subject? </s>
+<s> Yes, I enjoy English a lot. </s>
+<s> Do students in your class like him? </s>
+<s> Yes, all of us admire him. </s>
+<s> Do you want to be a teacher like him? </s>
+<s> No, although I like him, my dream is not to become a teacher. I would like to be a chef. </s>
+<s> Have you ever been punished by him? </s>
+<s> No, he rarely punishes anyone. </s>
+<s> Do you want to see him again? </s>
+<s> Of course, he’s a great mentor. </s>
+<s> Who’s your best friend? </s>
+<s> It’s Jenny. She’s my best friend. </s>
+<s> What does she look like? </s>
+<s> She has shoulder-length brown hair. I just love her lovely smile. </s>
+<s> How and when did you meet? </s>
+<s> I first met her when we were in high school. </s>
+<s> How often do you see this friend? </s>
+<s> I see her every day. We’re in the same class. </s>
+<s> What’s she like? </s>
+<s> She’s not only thoughtful but also very understanding. She’s always by my side to cheer me up whenever I’m in trouble. </s>
+<s> Do you and her share anything in common? </s>
+<s> Yes, a lot. We both love shopping and playing sports. </s>
+<s> What do you and her do together? </s>
+<s> We usually do homework and read books together. </s>
+<s> Have you and her ever quarreled? </s>
+<s> Yes, but we seldom quarrel. When we do argue, afterwards we seem to understand more about each other. </s>
+<s> Does she know how to cook? </s>
+<s> Yes, but she’s not a great cook. </s>
+<s> Do your parents like her? </s>
+<s> Yes, a lot. They always ask Jenny to come over for dinner. </s>
+<s> Why is a friend important in life? </s>
+<s> A good friend can make your life better in many ways. I don’t think anyone can stand loneliness. </s>
+<s> What is your favorite hotel? Where is it located? </s>
+<s> It’s the Sheraton, a five-star hotel located in Saigon, Vietnam. </s>
+<s> How do you know that hotel? </s>
+<s> Before coming to Vietnam for traveling, I searched on the Internet. </s>
+<s> It’s one of the best hotels in Vietnam. </s>
+<s> Why do you choose to stay in that particular hotel? </s>
+<s> I like the architecture there, and online all the reviews about the hotel are positive. </s>
+<s> Is it by the beach? </s>
+<s> No, Saigon is not a beach-side city. </s>
+<s> Does it attract many tourists? </s>
+<s> Yes, I guess. When I stayed there, it was completely booked. </s>
+<s> What type of room did you stay in and what facilities did you get from the hotel? </s>
+<s> I stayed in a double-bed room. The room is equipped with air-conditioner, a flat-screen TV, wardrobe, etc. </s>
+<s> What do you like about that hotel? </s>
+<s> A gymnasium, swimming pool, and BBQ area are available. </s>
+<s> I also love the green space surrounding the hotel. </s>
+<s> Are all the staff friendly and helpful? </s>
+<s> Yes, definitely. They all are professional. </s>
+<s> How much does it cost a night? </s>
+<s> It costs me around $250/night. </s>
+<s> Do you recommend that hotel to friends? </s>
+<s> Yes, if they come to Vietnam. </s>
+<s> I love everything there. </s>
+<s> Who wrote the letter to you? </s>
+<s> My dad wrote the letter to me when he was on a business trip. </s>
+<s> Did you keep the letter? </s>
+<s> Yes, I put it in a folder. Whenever I’m down, reading his letter would be a good way to cheer me up. </s>
+<s> What was the letter about? </s>
+<s> He told me about his new workplace and how things were there. </s>
+<s> How did you feel about the letter? </s>
+<s> I was glad to know that he was fine in another city. </s>
+<s> Do you have a letter collection? </s>
+<s> Yes. I collect all the letters from family and friends. It’s one of my hobbies. </s>
+<s> Do you like writing letters or emails? </s>
+<s> I prefer writing paper letters. </s>
+<s> Do people in your country usually write letters? </s>
+<s> Years ago they did. Now people prefer emails. </s>
+<s> What’s the difference between emails and hand-written letters? </s>
+<s> Emails are much more convenient than letters because they’re free to send and they get there instantly. However, letters are much more special. </s>
+<s> Why should we write letters to friends or relatives? </s>
+<s> It’s a good way to show love to people you care about. </s>
+<s> What is your hobby? </s>
+<s> I like playing sports, especially swimming. </s>
+<s> Is your hobby common in your country? </s>
+<s> Yes, kids, adults, and senior citizens all like swimming in my country. </s>
+<s> Is your hobby the same as when you were a child? </s>
+<s> Yes, I was fond of swimming when I was a little girl. </s>
+<s> When did you start practicing that hobby? </s>
+<s> I started swimming when I was 5 years old. </s>
+<s> Is there anybody in your family who you share your hobby with? </s>
+<s> My dad, he taught me how to swim. </s>
+<s> How much time do you spend on your hobby? </s>
+<s> I usually go to the swimming pool twice a week. </s>
+<s> What benefits do you get from it? </s>
+<s> Swimming is a really good workout. It helps me keep fit and chill out after a long day working. </s>
+<s> Have you ever heard of someone having a very unusual hobby? What was it? </s>
+<s> Yes, my cousin loves tattooing vehicles. He puts stickers everywhere on his car. </s>
+<s> What do you think about someone having weird hobbies? </s>
+<s> I don’t think any hobby is weird. It’s just what you like to do, so I don’t judge others. </s>
+<s> What hobbies are usually expensive in your country? </s>
+<s> Playing golf is a really expensive hobby. Only the rich can afford to buy golf supplies. </s>
